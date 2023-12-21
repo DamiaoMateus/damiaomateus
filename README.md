@@ -2,7 +2,7 @@
                  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Damião+Mateus👋;++estou+com+8+anos+de+experiência;+como+desevolvedor+fullstack;Seja+Benvindo!+:%29)](https://git.io/typing-svg)
 
-👋Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
+Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
 pelo Instituto Superior Técnico de Angola e instrutor de programação nas horas vagas, gosto de resolver problemas difíceis,
 resolução de algoritmos em maratonas e construção de um sistema complexo. Sou movido pelo desafio de alcançar o
 próximo nível. Meus interesses profissionais envolvem projetos com potencial de gerar impacto social positivo.👋
@@ -52,7 +52,7 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-                                                    *** Contactos e Redes Sociais***
+                                                    *** Contactos e Redes Sociais 2023***
   
   <div> 
 <!--  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  -->
