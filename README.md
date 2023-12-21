@@ -15,25 +15,29 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamiaoMateus&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
- ### Main skills:
- <div>
+   <p align="center">
+  Main skills:
+  </p> 
+                                                                                                     
+ <div align="center" >                                                                      
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
- 
-  ### SGBD's And Data Analysis:
- <div>
+ <br> <br> 
+ <p align="center">
+  SGBD's And Data Analysis:
+</p> 
+ <div align="center" >                                                                   
      <img align="center" alt="SQL-SERVER" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg">
      <img align="center" alt="MYSQL" height="30" width="40"  src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
-
+ 
 <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
+  <div align="center" style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="ASNETCORE" height="30" width="40"  src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"> 
@@ -49,19 +53,18 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
   </div>
   
   <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
+  <div  align="center" style="flex-basis: 48%;">
     <h3>Libraries </h3>
     <img align="center" alt="Nuget" height="30" width="40"  src="https://devicon-website.vercel.app/api/nuget/original.svg">
     <img align="center" alt="Panda" height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   </div>
   
 ### Studying in this moment:
-<div>
+<div >
 <img   align="center" alt="Nuget" height="60" width="80"   src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg">
 <img  align="center" alt="Nuget" height="60" width="80"  src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg">
 </div>
-
-                                          
+                                        
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>      
