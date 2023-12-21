@@ -5,7 +5,7 @@
 Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
 pelo Instituto Superior Técnico de Angola e instrutor de programação nas horas vagas, gosto de resolver problemas difíceis,
 resolução de algoritmos em maratonas e construção de um sistema complexo. Sou movido pelo desafio de alcançar o
-próximo nível. Meus interesses profissionais envolvem projetos com potencial de gerar impacto social positivo.
+próximo nível. Meus interesses profissionais envolvem projetos com potencial de gerar impacto social positivo.👋
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=damiaomateus&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
