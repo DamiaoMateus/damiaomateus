@@ -15,9 +15,9 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamiaoMateus&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-   <p align="center">
-  Main skills:
-  </p> 
+
+  <h3 align="center">Main skills:</h3>
+  
                                                                                                      
  <div align="center" >                                                                      
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -27,9 +27,9 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  <br> <br> 
- <p align="center">
-  SGBD's And Data Analysis:
-</p> 
+ 
+  <h3 align="center">SGBD's And Data Analysis:</h3>
+ 
  <div align="center" >                                                                   
      <img align="center" alt="SQL-SERVER" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain.svg">
      <img align="center" alt="MYSQL" height="30" width="40"  src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg">
@@ -59,12 +59,12 @@ próximo nível. Meus interesses profissionais envolvem projetos com potencial d
     <img align="center" alt="Panda" height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   </div>
   
-### Studying in this moment:
-<div >
-<img   align="center" alt="Nuget" height="60" width="80"   src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg">
-<img  align="center" alt="Nuget" height="60" width="80"  src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg">
+<h3 align="center">  Studying in this moment:</h3>
+<div align="center">
+<img   align="center" alt="Nuget" height="50" width="60"   src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg">
+<img  align="center" alt="Nuget" height="50" width="60"  src="https://devicon-website.vercel.app/api/graphql/plain-wordmark.svg">
 </div>
-                                        
+        <br>                                
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>      
