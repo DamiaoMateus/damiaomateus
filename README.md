@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
                  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Damião+Mateus👋;++estou+com+8+anos+de+experiência;+como+desevolvedor+fullstack;Seja+Benvindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Damião+Mateus👩‍💻;++estou+com+mais+de+8+anos+de+experiência;+como+desevolvedor+fullstack;Seja+Benvindo!+🤝👌.)](https://git.io/typing-svg)
 
-👋Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
+Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
 pelo Instituto Superior Técnico de Angola e instrutor de programação nas horas vagas, gosto de resolver problemas difíceis,
 resolução de algoritmos em maratonas e construção de um sistema complexo. Sou movido pelo desafio de alcançar o
 próximo nível. Meus interesses profissionais envolvem projetos com potencial de gerar impacto social positivo.👋
