@@ -4,7 +4,8 @@
 
 Entusiasta de tecnologia e de rápido aprendizado, sou desenvolvedor com experiência de programação, Engenheiro Informático
 pelo Instituto Superior Técnico de Angola e instrutor de programação nas horas vagas, gosto de resolver problemas difíceis,
-resolução de algoritmos em maratonas e construção de um sistema complexo. Sou movido pelo desafio de alcançar o
+resolução de algoritmos em maratonas e construção de um sistema complexo. Certificado pela América Latina na categoria
+“Dio CampExpert”Sou movido pelo desafio de alcançar o
 próximo nível. Meus interesses profissionais envolvem projetos com potencial de gerar impacto social positivo.👋
 <!--Codigo do Grafico-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DamiaoMateus&bg_color=0d0c0d&color=4c7f9e&line=4c6c9e&point=3f3e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
